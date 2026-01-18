@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  height: 100vh;
+  background: url("assets/bg.jpg") center/cover no-repeat;
+  font-family: Arial, sans-serif;
+  font-size: 20px;
+  color: white;
+}
+
+.container {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  backdrop-filter: blur(6px);
+}
+
+input {
+  padding: 10px;
+  border-radius: 8px;
+  border: none;
+  margin-top: 10px;
+}
+
+button {
+  margin-top: 8px;
+  padding: 8px 14px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
