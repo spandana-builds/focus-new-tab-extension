@@ -20,7 +20,7 @@ A minimal Chrome New Tab extension that replaces the default new tab with a calm
 3. Enable **Developer mode**
 4. Click **Load unpacked**
 5. Select the project folder
-6. Open a new tab 🎉
+6. Open a new tab 
 
 ## What I Learned
 - Chrome Extension architecture (Manifest V3)
@@ -30,4 +30,5 @@ A minimal Chrome New Tab extension that replaces the default new tab with a calm
 
 ## Screenshots
 ![Uploading image.png…]()
+
 
